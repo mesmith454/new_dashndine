@@ -5,7 +5,7 @@ const MealsSummary = () => {
     <section className={classes.summary}>
       <h2>Delicious Food</h2>
       <p>
-        test test 
+        Cater to your cravings 
       </p>
       <p>
         Enjoy your food text text text ..
